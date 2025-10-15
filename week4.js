@@ -1,9 +1,9 @@
 const filmInterstellar = {
     // Properti film
-    judul: "One Day",
-    tahunRilis: 2016,
-    sutradara: "Banjong Pisanthanakun",
-    genre: ["Romance", "Drama"],
+    judul: "Interstellar",
+    tahunRilis: 2014,
+    sutradara: "Christopher Nolan",
+    genre: ["Sci-Fi", "Adventure", "Drama"],
 
     // Method untuk menampilkan detail
     tampilkanDetail: function() {
